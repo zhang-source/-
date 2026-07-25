@@ -172,6 +172,36 @@ Reliability is also what a bank sells.
 
 ---
 
+## M7 — 藝術與音樂（約 45 秒｜A1、A7、A11，也可當任何題目的 Hook）
+
+> 玉山**每年都考藝術題**，而且是董事長場。完整素材見 `05-ammo-english.md` 第一節。
+> 這裡是壓縮版，先背這塊。
+
+In our head office there is a sculpture called **"The Power of Music."**
+A French artist named **Arman** made it in 1986.
+
+He took about **twenty double basses**, cut them apart, and stacked them into one piece.
+One double bass alone is just an instrument.
+Twenty of them, put together, become something you cannot look away from.
+
+That is why I think this work represents E.SUN.
+**One plus one becomes more than two.** That is teamwork.
+The branch alone cannot serve the customer. The back office alone cannot either.
+Only together do we deliver the whole service.
+
+And art does one more thing here.
+A bank is usually a place where people talk about numbers.
+Our head office is also a place where people stop and look at something beautiful.
+I think that says something about what kind of bank we want to be.
+
+> **中文提醒**
+> - "Arman" 唸 /ɑːrˈmɑːn/，法國人名，重音在後
+> - "double bass" 唸 /ˈdʌbl beɪs/ — bass 唸「貝斯」不是「巴斯」
+> - 「20 把」不確定就說 "about twenty"
+> - 這塊也可以整個換成雷諾瓦（見 `05-ammo-english.md`），二選一背熟就好，不要兩個都半生不熟
+
+---
+
 ## 拼裝範例
 
 | 抽到的題目 | 拼法 |
@@ -182,6 +212,9 @@ Reliability is also what a bank sells.
 | D1 團隊致勝關鍵 | Hook → **M5** → **M2**（我自己的例子）→ Close |
 | G6 最大的困難 | Hook → **M2** 整塊展開 → Close |
 | F1 Fed 升息影響 | Hook → **M6** → **M5**（風險管理）→ Close |
+| A1 哪位藝術家最打動你 | Hook → **M7** 整塊展開 → **M5**（團隊，因為阿曼講的就是團隊）→ Close |
+| A7 從藝術品學到什麼 | Hook → **M7** → **M1**（這就是玉山的樣子）→ Close |
+| A11 雷諾瓦「痛苦會過去」 | Hook → **M7 雷諾瓦版** → **M2**（我自己的痛苦）→ Close |
 
 ---
 
