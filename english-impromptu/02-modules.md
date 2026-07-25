@@ -84,8 +84,11 @@ We call ourselves **"the bank of technology."**
 
 Let me give you a concrete example. **Fraud detection.**
 When your credit card is used somewhere strange,
-our AI model checks it **in less than a second** and stops it.
+our AI model checks it **in less than one second** and stops it.
 A human being cannot do that. A machine can.
+
+Here is a second number. Our AI reads bill images for us,
+and it saves about **seventy-seven percent** of the manual effort on the front line.
 
 We use AI in five areas:
 **service, marketing, risk control, process, and employee support.**
@@ -96,7 +99,8 @@ Technology does not replace people. It **gives time back** to people.
 The machine handles the repeated work, so we can spend our time on the customer.
 
 > **中文提醒**
-> - 「盜刷偵測 0.1 秒」這個數字請上班前跟學長姐確認一次；不確定就講 "in less than a second"，穩且不會錯
+> - 「less than one second」和「77%」兩個數字都出自學長姐的答案（`新人訓.xlsx`），可以放心講
+> - "seventy-seven percent" 講出來比寫 77% 好聽，也不會唸錯
 > - 最後那句 "gives time back to people" 是很好的收尾，評審會喜歡
 
 ---
@@ -189,7 +193,11 @@ That is why I think this work represents E.SUN.
 The branch alone cannot serve the customer. The back office alone cannot either.
 Only together do we deliver the whole service.
 
-And art does one more thing here.
+And there is one more piece I like — **the Jade Mountain Deer.**
+It was the **first artwork E.SUN ever collected.**
+Deer are social animals. They survive together, not alone.
+So even the very first thing we bought was already saying: *this is a team.*
+
 A bank is usually a place where people talk about numbers.
 Our head office is also a place where people stop and look at something beautiful.
 I think that says something about what kind of bank we want to be.
